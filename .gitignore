@@ -1,0 +1,8 @@
+# Ignore virtual environment directories
+venv/
+# Ignore all .pyc files
+*.pyc
+# Ignore temporary files
+*.tmp
+*.log
+
